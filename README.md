@@ -21,4 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 + [flutter_map](https://pub.dev/packages/flutter_map)
 + [latlong2](https://pub.dev/packages/latlong2)
 
+![GIF animado demonstrando funcionalidades do projeto]()
+
 
