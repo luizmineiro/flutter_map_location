@@ -21,6 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 + [flutter_map](https://pub.dev/packages/flutter_map)
 + [latlong2](https://pub.dev/packages/latlong2)
 
-![GIF animado demonstrando funcionalidades do projeto](https://github.com/luizmineiro/flutter_map_location/blob/main/V%C3%ADdeo%20do%20WhatsApp%20de%202023-01-02%20%C3%A0(s)%2017.22.53.gif)
+* [GIF animado demonstrando funcionalidades do projeto](https://github.com/luizmineiro/flutter_map_location/blob/main/V%C3%ADdeo%20do%20WhatsApp%20de%202023-01-02%20%C3%A0(s)%2017.22.53.gif)
 
 
